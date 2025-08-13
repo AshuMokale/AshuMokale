@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AshuMokale
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C/Python
-- 💞️ I’m looking to collaborate on opensource projects
+- 👋 Hi, I’m Ashish Mokale
+- 👀 I’m interested in programming and tech in general.
+- 🌱 I’m currently learning Java & JavaScript.
+- 💞️ I’m looking forward to collaborate on opensource projects.
 - 📫 How to reach me insta id:- @dev_ashi.sh
 
 <!---
